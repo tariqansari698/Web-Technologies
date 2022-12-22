@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+}
+.image img{
+    border-bottom: 40%;
+    width:auto;
+    height: 400px;
+    background-size:cover;
+    margin-left: 30%;
+    margin-right:20%;
+    margin-top: 10%;
+}
